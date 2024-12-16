@@ -1,0 +1,21 @@
+Task Manager - A Web-Based Project Management System
+
+This Task Manager is a comprehensive web application built using PHP and MySQL, designed to help users organize and track their daily tasks effectively. The system features a clean and intuitive user interface, making it easy for users to manage their work efficiently.
+
+Users can create personal accounts to access the system, allowing them to maintain their private task lists. Each task can be assigned a title, detailed description, and due date, helping users prioritize their work effectively.
+
+The application includes a dynamic status system where tasks can be marked as 'pending', 'in progress', or 'completed', providing clear visibility of task progression. Users can easily update task statuses as they work through their assignments.
+
+A built-in search functionality allows users to quickly find specific tasks by searching through titles and descriptions, making it convenient to locate particular items in large task lists.
+
+The notification system keeps users informed about important task-related events, such as upcoming due dates or status changes. These notifications help users stay on top of their responsibilities and meet deadlines.
+
+The project follows a structured MVC-like architecture, separating the business logic from the presentation layer. This organization makes the code more maintainable and easier to understand.
+
+All data is stored in a MySQL database, ensuring reliable data persistence and efficient data retrieval. The database schema is optimized for quick access and relationship management between users, tasks, and notifications.
+
+The user interface is built with HTML and CSS, providing a responsive and modern design that works well on both desktop and mobile browsers. The clean layout ensures that users can focus on their tasks without distractions.
+
+This project serves as an excellent example of a full-stack web application, demonstrating the implementation of user authentication, CRUD operations, and real-time notifications in a practical context.
+
+The system is ideal for individuals or small teams who need a straightforward, no-frills task management solution that focuses on essential features without overwhelming users with unnecessary complexity.
